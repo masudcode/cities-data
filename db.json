@@ -13,18 +13,6 @@
       "id": "17806751"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
       "id": "5bf6",
       "cityName": "Fortanete",
       "country": "Spain",
@@ -35,6 +23,18 @@
         "lat": "40.48667721643969",
         "lng": "-0.5300903320312501"
       }
+    },
+    {
+      "cityName": "Ribesalbes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "notes": "kkjkj",
+      "date": "2025-09-06T13:40:12.892Z",
+      "position": {
+        "lat": "40.024459635387906",
+        "lng": "-0.27603149414062506"
+      },
+      "id": "DSXYLia"
     }
   ]
 }
